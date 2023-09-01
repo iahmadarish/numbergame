@@ -1,0 +1,142 @@
+.error{
+    padding: 15px 18px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    background: red;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: none;
+}
+
+.p-1{
+    display: none;
+}
+.p-2{
+    display: none;
+}
+
+.winner2{
+    display: none;
+}
+
+.box {
+    padding: 100px 80px;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    text-align: center;
+    margin: o auto;
+    background: repeating-linear-gradient(45deg, #9662d6e8, transparent 100px);
+}
+.want{
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.firstinput {
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    background: #FF9800;
+}
+.firstinputBtn {
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    background: #FF9800;
+}
+
+.playerone{
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(99, 4, 9);
+}
+.playertwo{
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(99, 4, 9);
+}
+.chance{
+    font-size: 30px;
+    color: black;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.playeroneInput {
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    background: #FF9800;
+}
+.playeroneBtn {
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    background: #FF9800;
+}
+
+.playertwoInput {
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    background: #FF9800;
+}
+.playertwoBtn {
+    padding: 10px 15px;
+    border-radius: 20px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    background: #FF9800;
+}
+
+
+.gameover{
+    display: none;
+    background: url(../images/game\ over.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px 150px;
+
+}
+.gameover h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(7, 7, 7);
+}
+
+
+
+
+
+
+
+
+
+
+
